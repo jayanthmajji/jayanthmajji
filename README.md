@@ -1,5 +1,18 @@
-# 💫 About Me:
-# Hey, I'm Jayanth 👋<br><br>I'm a **Software Engineer at Accenture**, passionate about building clean, responsive, and user-friendly web applications.<br><br>### 🚀 What I'm Focused On<br><br>- **At Accenture:** Working on enhancing web applications and delivering seamless user experiences, with an emphasis on reusable UI components, REST API integration, and developing reliable, maintainable frontend solutions.<br>- **Learning & Growth:** Exploring Full Stack Development and expanding my knowledge of modern web technologies.<br>- **Problem Solving:** Debugging frontend issues and continuously improving my development skills.<br><br>*Always curious, always learning, and building one step at a time.*
+# 💫 About Me
+
+# Hey, I'm Jayanth 👋
+
+I'm a **Software Engineer at Accenture**, passionate about building clean, responsive, and user-friendly web applications.
+
+# 🚀 What I'm Focused On
+
+--> At Accenture: I work on enhancing web applications and delivering seamless user experiences, focusing on reusable UI components, REST API integration, and reliable, maintainable frontend solutions.
+
+--> Learning & Growth: I'm exploring Full Stack Development and continuously expanding my knowledge of modern web technologies.
+
+--> Problem Solving: I enjoy debugging frontend issues and continuously improving my development skills.
+
+## ✨ Always curious, always learning, and building one step at a time.
 
 
 ## 🌐 Socials:
